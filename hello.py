@@ -8,3 +8,4 @@ X = dataset["Temperature"].values
 y = dataset["Revenue"].values
 
 dataset.head(5)
+print("yo")
